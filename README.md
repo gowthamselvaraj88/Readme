@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Gowtham</h1>
 <h3 align="center">A developer who likes to build.</h3>
 
-<p align="left"> <img src="https://tenor.com/view/programmers-go-internet-technologists-researching-technologist-gif-3757206632821927062" alt="gowtham" /> </p>
+<p align="left"> <img src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216" alt="gowtham" /> </p>
 
 - 🌱 I’m currently learning **Front-End-Web-Dev**
 
